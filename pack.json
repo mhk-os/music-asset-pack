@@ -1,0 +1,7 @@
+{
+  "id": "music",
+  "title": "Music Pack",
+  "description": "The menu theme of Moorhuhn Kart: Open Source Edition.",
+  "author": "mhk-os",
+  "menuMusic": ["mhko/Music/mhko_main_theme.mp3"]
+}
